@@ -13,24 +13,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 </center>
 
-*__Note:__ that this course was originally designed for ISBS 2024 with [Prof. Drew Harrison (University of Limerick)](https://www.ul.ie/shprc/professor-drew-harrison). You can check out the original website [here](https://github.com/edwardgunning/ISBS-Short-Course/tree/main).*
+*__Note:__ This course was originally designed for ISBS 2024 with [Prof. Drew Harrison (University of Limerick)](https://www.ul.ie/shprc/professor-drew-harrison). You can check out the original website [here](https://github.com/edwardgunning/ISBS-Short-Course/tree/main).*
 
-
-```{r, echo=FALSE, include = FALSE}
-htmltools::img(src = knitr::image_uri("logo/isbs-logo.png"), 
-               alt = 'logo', 
-               style = 'position:absolute; top:0; right:0; padding:10px;',
-               width = "150px",
-               heigth = "150px")
-```
-
-```{r, echo=FALSE, include = FALSE}
-htmltools::img(src = knitr::image_uri("logo/fda-logo.png"), 
-               alt = 'logo', 
-               style = 'position:absolute; top:0; left:0; padding:10px;',
-               width = "170px",
-               heigth = "170px")
-```
 
 ---
 
@@ -123,7 +107,7 @@ We will meet at the venue from the official start time of 8.30am, for a start at
 
 * Queries about registration and logistics should be sent to the [john.warmenhoven@uts.edu.au](mailto:john.warmenhoven@uts.edu.au).
 
-* Queries about the course material should be sent to [edward.gunning@pennmedicine.upenn.edu](mailto:edward.gunning@pennmedicine.upenn.edu) with the subject line *"ISBS pre-conference workshop material"*.
+* Queries about the course material should be sent to [edward.gunning@pennmedicine.upenn.edu](mailto:edward.gunning@pennmedicine.upenn.edu) with the subject line *"UTS FDA workshop material"*.
 
 ---
 

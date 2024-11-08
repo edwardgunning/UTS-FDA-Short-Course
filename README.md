@@ -7,7 +7,7 @@ Functional Data Analysis in Sports Biomechanics
 
 </center>
 
-***Note:** that this course was originally designed for ISBS 2024 with
+***Note:** This course was originally designed for ISBS 2024 with
 [Prof. Drew Harrison (University of
 Limerick)](https://www.ul.ie/shprc/professor-drew-harrison). You can
 check out the original website
@@ -134,8 +134,8 @@ start at 9.00am.
   <john.warmenhoven@uts.edu.au>.
 
 - Queries about the course material should be sent to
-  <edward.gunning@pennmedicine.upenn.edu> with the subject line *“ISBS
-  pre-conference workshop material”*.
+  <edward.gunning@pennmedicine.upenn.edu> with the subject line *“UTS
+  FDA workshop material”*.
 
 ------------------------------------------------------------------------
 
@@ -238,5 +238,5 @@ sessionInfo() # R session info.
     ## loaded via a namespace (and not attached):
     ##  [1] compiler_4.4.1    fastmap_1.2.0     cli_3.6.3         tools_4.4.1      
     ##  [5] htmltools_0.5.8.1 rstudioapi_0.16.0 yaml_2.3.8        rmarkdown_2.27   
-    ##  [9] knitr_1.47        xfun_0.45         digest_0.6.36     mime_0.12        
-    ## [13] rlang_1.1.4       evaluate_0.24.0
+    ##  [9] knitr_1.47        xfun_0.45         digest_0.6.36     rlang_1.1.4      
+    ## [13] evaluate_0.24.0
