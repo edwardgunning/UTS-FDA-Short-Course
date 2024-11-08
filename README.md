@@ -3,30 +3,24 @@ Functional Data Analysis in Sports Biomechanics
 
 <center>
 
-![](logo/ISBS-Logo-2024.png) ![](logo/whitespace.png)
-![](logo/fda-logo.png)
+![](logo/uts-logo.png) ![](logo/whitespace.png) ![](logo/fda-logo.png)
 
 </center>
 
-<figure>
-<img src="logo/isbs-course.png"
-alt="We thank all of the conference organisers and participants who made our pre-conference workshop an overwhelming success and an amazing experience." />
-<figcaption aria-hidden="true">We thank all of the conference organisers
-and participants who made our pre-conference workshop an overwhelming
-success and an amazing experience.</figcaption>
-</figure>
+***Note:** that this course was originally designed for ISBS 2024 with
+[Prof. Drew Harrison (University of
+Limerick)](https://www.ul.ie/shprc/professor-drew-harrison). You can
+check out the original website
+[here](https://github.com/edwardgunning/ISBS-Short-Course/tree/main).*
 
 ------------------------------------------------------------------------
 
 # Welcome
 
-This is the web page for the [ISBS 2024](https://www.isbs2024.com)
-pre-conference workshop [***“Functional Data Analysis in Sports
-Biomechanics”***](https://www.isbs2024.com/wp-content/uploads/2024/03/Pre-workshop_FDA.pdf),
-delivered by [Prof. Drew Harrison (University of
-Limerick)](https://www.ul.ie/shprc/professor-drew-harrison) and
-[Dr. Edward Gunning (University of
-Pennsylvania)](https://edwardgunning.github.io/).
+This is the web page for the workshop **“Functional Data Analysis in
+Sports Biomechanics”**, delivered by [Dr. Edward Gunning (University of
+Pennsylvania)](https://edwardgunning.github.io/) at the University of
+Technology Sydney (UTS) on the 21st of November 2024.
 
 ------------------------------------------------------------------------
 
@@ -113,7 +107,8 @@ install.packages("refund") # install the refund package
 
 # 🏢 Location
 
-The workshop will take place in Grüner Hörsaal.
+The workshop will take place at the UTS-Rugby Australia Building in
+Moore Park (room details TBC).
 
 ------------------------------------------------------------------------
 
@@ -122,21 +117,21 @@ The workshop will take place in Grüner Hörsaal.
 We will meet at the venue from the official start time of 8.30am, for a
 start at 9.00am.
 
-|              Time | Topic                    | Format                |  Lead   |
-|------------------:|:-------------------------|-----------------------|:-------:|
-| $09.00$ - $09.30$ | Welcome and Introduction | Lecture               |   DH    |
-| $09.30$ - $09.50$ | Coffee Break             |                       |         |
-| $09.50$ - $12.00$ | Foundations of FDA       | Lecture               | DH & EG |
-| $12.00$ - $13.00$ | Lunch                    |                       |         |
-| $13.00$ - $15.00$ | Hands-on FDA with **R**  | Practical (groups)    |   EG    |
-| $15.00$ - $16.00$ | Q&A with Coffee          | Group Discussion/ Q&A | DH & EG |
+|              Time | Topic                    | Format                |
+|------------------:|:-------------------------|-----------------------|
+| $10.00$ - $10.30$ | Welcome and Introduction | Lecture               |
+| $10.30$ - $10.50$ | Coffee Break             |                       |
+| $10.50$ - $13.00$ | Foundations of FDA       | Lecture               |
+| $13.00$ - $14.00$ | Lunch                    |                       |
+| $14.00$ - $16.00$ | Hands-on FDA with **R**  | Practical (groups)    |
+| $16.00$ - $16.30$ | Q&A and Final Remarks    | Group Discussion/ Q&A |
 
 ------------------------------------------------------------------------
 
 # 📧 Contact
 
-- Queries about registration for the course should be sent to the ISBS
-  2024 organisers.
+- Queries about registration and logistics should be sent to the
+  <john.warmenhoven@uts.edu.au>.
 
 - Queries about the course material should be sent to
   <edward.gunning@pennmedicine.upenn.edu> with the subject line *“ISBS
@@ -160,10 +155,9 @@ start at 9.00am.
 
 # 📖 Further Reading
 
-- A deeper account of this material will be provided in our upcoming
-  book [Functional Data Analysis in
-  Biomechanics](https://link.springer.com/book/9783031688614) which will
-  be published by Springer later this year
+- A deeper account of this material is provided in our short book
+  [Functional Data Analysis in
+  Biomechanics](https://link.springer.com/book/9783031688614):
 
 <center>
 <img src="logo/book-cover.png" width="150">
@@ -235,7 +229,7 @@ sessionInfo() # R session info.
     ## locale:
     ## [1] en_US.UTF-8/en_US.UTF-8/en_US.UTF-8/C/en_US.UTF-8/en_US.UTF-8
     ## 
-    ## time zone: Europe/Dublin
+    ## time zone: America/New_York
     ## tzcode source: internal
     ## 
     ## attached base packages:
